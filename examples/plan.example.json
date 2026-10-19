@@ -1,0 +1,27 @@
+{
+  "hook": { "line1": "I HAVE A", "line2": "COFFEE PROBLEM" },
+  "cuts": [
+    { "start": 1.20, "end": 3.05, "text": "I own way too many coffee gadgets." },
+    { "start": 3.60, "end": 5.40, "text": "And this is not a flex." },
+    { "start": 6.10, "end": 8.30, "text": "First, my grinder," },
+    { "start": 14.80, "end": 17.20, "text": "then the scale I never calibrate," },
+    { "start": 24.50, "end": 27.90, "text": "and a pour-over kettle I used exactly once." },
+    { "start": 28.40, "end": 31.00, "text": "So why am I making this video?" },
+    { "start": 31.60, "end": 33.20, "text": "I honestly don't know." }
+  ],
+  "keywords": ["COFFEE", "GADGETS", "FLEX", "GRINDER", "SCALE", "KETTLE", "ONCE"],
+  "counter": {
+    "label": "GADGET COUNT",
+    "events": [
+      { "time": 7.4, "value": "1", "label": "+1 GRINDER" },
+      { "time": 15.5, "value": "2", "label": "+1 SCALE" },
+      { "time": 25.6, "value": "3", "label": "+1 KETTLE" }
+    ]
+  },
+  "stamps": [ { "time": 4.6, "text": "NOT A FLEX" } ],
+  "outro": { "line1": "...I DON'T KNOW", "line2": "TELL ME I'M NOT THE ONLY ONE" },
+  "framing": [
+    { "start": 0, "end": 12, "face_x": 0.5, "face_y": 0.38, "subject_scale": "medium" },
+    { "start": 12, "end": 60, "face_x": 0.48, "face_y": 0.42, "subject_scale": "small" }
+  ]
+}
