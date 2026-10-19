@@ -30,7 +30,7 @@ The model only writes a plan; it never touches the video. That makes the result 
 You need **Python 3.10+** and **ffmpeg** on your PATH.
 
 ```bash
-pip install "reelcut[all] @ git+https://github.com/<you>/reelcut"
+pip install "reelcut[all] @ git+https://github.com/3liAf/reelcut"
 ```
 
 Or install only the SDK you'll use: `reelcut[claude]`, `reelcut[openai]` or `reelcut[gemini]`.
