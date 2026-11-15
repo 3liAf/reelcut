@@ -1,5 +1,10 @@
 # reelcut
 
+[![CI](https://github.com/3liAf/reelcut/actions/workflows/ci.yml/badge.svg)](https://github.com/3liAf/reelcut/actions/workflows/ci.yml)
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
+[![Python](https://img.shields.io/badge/Python-3.10%2B-blue.svg)](https://www.python.org/)
+[![Release](https://img.shields.io/github/v/release/3liAf/reelcut)](https://github.com/3liAf/reelcut/releases)
+
 Turn a raw talking-head clip into a captioned, jump-cut vertical reel for Instagram, TikTok or YouTube Shorts. Any LLM plans the edit (Claude, OpenAI, Gemini, or a local model) and ffmpeg renders it.
 
 ```
